@@ -305,9 +305,7 @@ The tools and techniques demonstrated in this repository should be used responsi
 
 Cybersecurity Enthusiast | Computer Science Engineering Student
 
-GitHub: [Add your GitHub profile link]
-
-LinkedIn: [Add your LinkedIn profile link]
+GitHub: prashant041204
 
 ---
 
